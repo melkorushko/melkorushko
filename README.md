@@ -7,4 +7,4 @@
 ![Static Badge](https://img.shields.io/badge/Mo-rgot-black?logo=pm2)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkorushko_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkorushko&show_icons=true&theme=transparent)
